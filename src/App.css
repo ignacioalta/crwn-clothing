@@ -1,8 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   padding: 20px 60px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a {
   text-decoration: none;
   color: black;
 }
+
+/* @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap'); */

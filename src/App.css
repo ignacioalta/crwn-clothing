@@ -4,7 +4,7 @@
 
 body {
   padding: 20px 60px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 a {
@@ -12,4 +12,4 @@ a {
   color: black;
 }
 
-/* @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');

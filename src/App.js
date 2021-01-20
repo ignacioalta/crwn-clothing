@@ -13,6 +13,7 @@ import { createStructuredSelector } from 'reselect';
 import { selectCurrentUser } from './redux/user/userSelector';
 import CheckOutPage from './pages/checkout/CheckOut';
 
+
 class App extends Component {
   unsuscribedFromAuth = null;
 
@@ -31,7 +32,7 @@ class App extends Component {
         })
       }
 
-      setCurrentUser(userAuth)
+      setCurrentUser(userAuth);
     })
   }
 
